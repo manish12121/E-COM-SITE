@@ -20,9 +20,13 @@ This project is a **full-stack e-commerce web application** built with the **MER
 ## **✨ Features**
 
 ✔ **Authentication** – Google OAuth-based login
+
 ✔ **Product Display** – Responsive homepage with clean UI
+
 ✔ **Payment Gateway** – Secure payment using **Stripe / Razorpay**
+
 ✔ **Admin Dashboard** – Track products sold & users purchasing them
+
 ✔ **Email Notifications** – Real-time payment alerts to super admin
 
 ---
@@ -116,7 +120,9 @@ This project is a **full-stack e-commerce web application** built with the **MER
 ## **📬 Contact**
 
 If you have any questions or suggestions, feel free to reach out:
-**Email:** [your-email@example.com](mailto:your-email@example.com)
-**GitHub:** [your-username](https://github.com/your-username)
+
+**Email:** [manishadhikari121@gmail.com](mailto:manishadhikari121@gmail.com)
+
+**GitHub:** [manish12121](https://github.com/manish12121)
 
 ---
